@@ -1,5 +1,4 @@
 - Hi, I’m Gustavo Guimarães
-- I'm from Brazil,SP
 - Java
 - Spring boot
 - Git
