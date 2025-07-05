@@ -1,5 +1,3 @@
-# Gustavo Guimarães
-
 - **Java (Spring Boot)** – Criação de APIs RESTful robustas e escaláveis
 - **Python** – Scripts automatizados, APIs e soluções rápidas
 - **SQL & NoSQL** – PostgreSQL, MongoDB, DBeaver
