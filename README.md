@@ -1,7 +1,7 @@
 ## Gustavo Guimarães
 **Aplicações e dados**
 
-![Python](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C](https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png)
+![Python]()
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![PostgreSQL]([https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png))
 ![MongoDB]([https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript](https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg))
